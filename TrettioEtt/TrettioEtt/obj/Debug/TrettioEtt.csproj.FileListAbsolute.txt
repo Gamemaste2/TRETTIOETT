@@ -1,0 +1,7 @@
+C:\Users\alexander.jansson5\Documents\Visual Studio 2017\Projects\TrettioEtt\TrettioEtt\bin\Debug\TrettioEtt.exe.config
+C:\Users\alexander.jansson5\Documents\Visual Studio 2017\Projects\TrettioEtt\TrettioEtt\bin\Debug\TrettioEtt.exe
+C:\Users\alexander.jansson5\Documents\Visual Studio 2017\Projects\TrettioEtt\TrettioEtt\bin\Debug\TrettioEtt.pdb
+C:\Users\alexander.jansson5\Documents\Visual Studio 2017\Projects\TrettioEtt\TrettioEtt\obj\Debug\TrettioEtt.csprojAssemblyReference.cache
+C:\Users\alexander.jansson5\Documents\Visual Studio 2017\Projects\TrettioEtt\TrettioEtt\obj\Debug\TrettioEtt.csproj.CoreCompileInputs.cache
+C:\Users\alexander.jansson5\Documents\Visual Studio 2017\Projects\TrettioEtt\TrettioEtt\obj\Debug\TrettioEtt.exe
+C:\Users\alexander.jansson5\Documents\Visual Studio 2017\Projects\TrettioEtt\TrettioEtt\obj\Debug\TrettioEtt.pdb
